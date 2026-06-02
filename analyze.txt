@@ -1,0 +1,124 @@
+﻿Analyzing Pdf Doc scanner app...                                
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:109:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:139:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:151:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:164:39 - deprecated_member_use
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\screens\file_tab\favorites_screen.dart:3:8 - unused_import
+warning - Unused import: 'dart:io' - lib\screens\file_tab\file_tab.dart:1:8 - unused_import
+warning - Unused import: '../recent_tab/recent_screen.dart' - lib\screens\file_tab\file_tab.dart:13:8 - unused_import
+warning - The value of the local variable 'settings' isn't used - lib\screens\file_tab\file_tab.dart:37:11 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\file_tab\file_tab.dart:125:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\file_tab\file_tab.dart:128:35 - deprecated_member_use
+   info - Use 'const' for final variables initialized to a constant value - lib\screens\file_tab\file_tab.dart:143:5 - prefer_const_declarations
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\file_tab\file_tab.dart:207:22 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:225:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:226:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:227:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:228:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:229:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:230:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:231:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\file_tab\file_tab.dart:232:7 - prefer_const_constructors
+   info - Statements in an if should be enclosed in a block - lib\screens\file_tab\file_tab.dart:252:37 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\file_tab\file_tab.dart:253:43 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\file_tab\file_tab.dart:254:46 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\file_tab\file_tab.dart:255:18 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:61:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:109:47 - deprecated_member_use
+warning - Unused import: '../../widgets/gradient_app_bar.dart' - lib\screens\recent_tab\recent_screen.dart:12:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\recent_tab\recent_screen.dart:148:62 - deprecated_member_use
+   info - The private field _currentIndex could be 'final' - lib\screens\scanner\crop_enhance_screen.dart:21:7 - prefer_final_fields
+   info - Uses 'await' on an instance of 'DocumentsNotifier', which is not a subtype of 'Future' - lib\screens\scanner\crop_enhance_screen.dart:260:9 - await_only_futures
+   info - Statements in an if should be enclosed in a block - lib\screens\scanner\scanner_screen.dart:62:28 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\scanner\scanner_screen.dart:63:14 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner\scanner_screen.dart:128:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner\scanner_screen.dart:186:41 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\scanner\scanner_screen.dart:238:27 - prefer_const_constructors
+warning - Unused import: 'package:flutter_animate/flutter_animate.dart' - lib\screens\settings_tab\settings_tab.dart:2:8 - unused_import
+warning - Unused import: '../../widgets/gradient_app_bar.dart' - lib\screens\settings_tab\settings_tab.dart:10:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\screens\settings_tab\settings_tab.dart:37:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\settings_tab\settings_tab.dart:42:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\settings_tab\settings_tab.dart:47:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\settings_tab\settings_tab.dart:52:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\settings_tab\settings_tab.dart:57:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\settings_tab\settings_tab.dart:62:17 - prefer_const_constructors
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\settings_tab\settings_tab.dart:122:13 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\settings_tab\settings_tab.dart:135:13 - deprecated_member_use
+warning - The value of the local variable 'total' isn't used - lib\screens\settings_tab\settings_tab.dart:154:21 - unused_local_variable
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\settings_tab\settings_tab.dart:201:13 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\settings_tab\settings_tab.dart:224:9 - prefer_const_constructors
+warning - Unused import: '../../widgets/gradient_app_bar.dart' - lib\screens\tool_tab\tool_tab.dart:8:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\tool_tab\tool_tab.dart:81:40 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\tool_tab\tool_tab.dart:109:13 - deprecated_member_use
+warning - Unused import: 'dart:io' - lib\screens\tools\compress_pdf_screen.dart:1:8 - unused_import
+warning - The left operand can't be null, so the right operand is never executed - lib\screens\tools\compress_pdf_screen.dart:36:49 - dead_null_aware_expression
+warning - The declaration '_qualityLabel' isn't referenced - lib\screens\tools\compress_pdf_screen.dart:41:14 - unused_element
+warning - Unused import: 'dart:io' - lib\screens\tools\merge_pdf_screen.dart:1:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\tools\merge_pdf_screen.dart:160:63 - deprecated_member_use
+   info - Unnecessary escape in string literal - lib\screens\tools\ocr_screen.dart:64:51 - unnecessary_string_escapes
+warning - Unused import: '../../providers/app_providers.dart' - lib\screens\tools\pdf_to_word_screen.dart:5:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\screens\tools\pdf_to_word_screen.dart:80:17 - prefer_const_constructors
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\tools\rotate_pages_screen.dart:118:17 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\screens\tools\rotate_pages_screen.dart:132:39 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\tools\rotate_pages_screen.dart:132:70 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\screens\tools\signature_screen.dart:169:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\tools\signature_screen.dart:171:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\tools\signature_screen.dart:171:43 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\tools\signature_screen.dart:192:65 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\tools\split_pdf_screen.dart:114:54 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\tools\split_pdf_screen.dart:154:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\tools\split_pdf_screen.dart:155:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\tools\split_pdf_screen.dart:156:27 - prefer_const_constructors
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\tools\split_pdf_screen.dart:159:31 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\tools\split_pdf_screen.dart:163:31 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\screens\tools\split_pdf_screen.dart:215:49 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\tools\split_pdf_screen.dart:216:40 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\tools\watermark_screen.dart:119:60 - deprecated_member_use
+warning - The name Size is shown, but isn't used - lib\services\pdf_service.dart:2:37 - unused_shown_name
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:57:37 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:58:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:58:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:58:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:62:36 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:63:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:63:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:63:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:67:38 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:68:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:68:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:68:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:72:38 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:73:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:73:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:73:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:77:36 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:78:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:78:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:78:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:82:36 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:83:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:83:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:83:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:87:35 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:88:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:88:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:88:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:92:36 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:93:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:93:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:93:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:97:38 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\theme\app_colors.dart:98:13 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:98:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\theme\app_colors.dart:98:33 - prefer_const_constructors
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\theme\app_theme.dart:13:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\theme\app_theme.dart:94:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\common_widgets.dart:34:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\common_widgets.dart:180:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\common_widgets.dart:248:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\file_type_icon.dart:158:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\gradient_app_bar.dart:62:47 - deprecated_member_use
+warning - Unused import: 'package:flutter/material.dart' - test\widget_test.dart:8:8 - unused_import
+warning - Unused import: 'package:docbubble/main.dart' - test\widget_test.dart:11:8 - unused_import
+
